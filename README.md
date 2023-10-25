@@ -1,8 +1,8 @@
 # Hello there, I'm Filip
-<p> I am Sowftware Engineer and enthusiast intrested in computer science and quantum computing. </p>
-<p>I am currently studing on [Czech Technical University](https://www.cvut.cz/en), Application of Computer science in natural Sciences, where I am working on [research of exoplanets](https://github.com/Yggdrasill501/Exoplanet_Search) and automation of data science behind it. </p>
+I am Sowftware Engineer and enthusiast intrested in computer science and quantum computing.<p></p>
+I am currently studing on [Czech Technical University](https://www.cvut.cz/en), Application of Computer science in natural Sciences, where I am working on [research of exoplanets](https://github.com/Yggdrasill501/Exoplanet_Search) and automation of data science behind it.<p> </p>
 
-<p> My work is at [Digiteq Automotive](https://www.digiteqautomotive.com/cs) where I work on AI model that represents behaviour of driver and his interaction with Infotainment, development of framework for Test Automation and CI/CD, Development of desktop apps and Android development.</p>
+My work is at [Digiteq Automotive](https://www.digiteqautomotive.com/cs) where I work on AI model that represents behaviour of driver and his interaction with Infotainment, development of framework for Test Automation and CI/CD, Development of desktop apps and Android development.<p> </p>
 
 ### Programing languages:
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
