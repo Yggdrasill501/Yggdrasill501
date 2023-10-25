@@ -1,4 +1,4 @@
-# Hello there👋, I'm Filip
+# Hello there, I'm Filip
 <p> I am Sowftware Engineer and enthusiast intrested in computer science and quantum computing. </p>
 <p>I am currently studing on [Czech Technical University](https://www.cvut.cz/en), Application of Computer science in natural Sciences, where I am working on [research of exoplanets](https://github.com/Yggdrasill501/Exoplanet_Search) and automation of data science behind it. </p>
 
