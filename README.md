@@ -25,8 +25,6 @@ My work is at [Digiteq Automotive](https://www.digiteqautomotive.com/cs) where I
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
 ### Web dev
-#### Repositories 
-- [Promote.me](https://github.com/Yggdrasill501/promote.me)
 
   
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
