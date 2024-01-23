@@ -17,7 +17,7 @@ There Is future in AI amd Ml I think nobody doubts that but the most interrsting
 #### Repositories 
 - [Exoplanet search](https://github.com/Yggdrasill501/Exoplanet_Search)
 - [Economical analysis of Slovakia](https://github.com/Yggdrasill501/economical_analysis_of_slovakia)
-- [ML for exoplanet search]()
+- [ML for exoplanet search](https://github.com/Yggdrasill501/ml_for_exoplanet_search)
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -30,13 +30,13 @@ There Is future in AI amd Ml I think nobody doubts that but the most interrsting
 ### Web dev
 When it comes to web I am interested in everything, I enjoy backend a bt more, but i think it is just because im writing it more.
 #### Repositories
-- [Cimi a C/C++ mini backend frame-work]()
+- [Cimi a C/C++ mini backend frame-work](https://github.com/Yggdrasill501/cimi-web)
 
 - [yggdrasill501.net]()
-- [yggdrasill501 Backend Api]()
+- [yggdrasill501 Backend Api](https://github.com/Yggdrasill501/yggdrasill501-api)
 - [yggdrasill501 Frontend]()
 
-- [janazitna.sk]()
+- [janazitna.sk](https://github.com/jakubzitny/janazitna.sk)
 
 - [Movies Backend Api](https://github.com/Yggdrasill501/Movies-backend)
 - [Movies Fronted]()
@@ -52,6 +52,9 @@ When it comes to web I am interested in everything, I enjoy backend a bt more, b
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 
 ### Unix/Linux
+#### Repositories
+- [Yggdrasil-LGX](https://github.com/Yggdrasill501/Yggdrasil-LGX)
+
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
