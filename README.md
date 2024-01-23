@@ -17,6 +17,7 @@ There Is future in AI amd Ml I think nobody doubts that but the most interrsting
 #### Repositories 
 - [Exoplanet search](https://github.com/Yggdrasill501/Exoplanet_Search)
 - [Economical analysis of Slovakia](https://github.com/Yggdrasill501/economical_analysis_of_slovakia)
+- [ML for exoplanet search]()
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
