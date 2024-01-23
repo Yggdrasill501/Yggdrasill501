@@ -53,8 +53,9 @@ When it comes to web I am interested in everything, I enjoy backend a bt more, b
 
 ### Unix/Linux
 #### Repositories
-- [Yggdrasil-LGX](https://github.com/Yggdrasill501/Yggdrasil-LGX)
-
+- [Yggdrasil LGX](https://github.com/Yggdrasill501/Yggdrasil-LGX)
+- [Neovim Config](https://github.com/Yggdrasill501/yggdrasill501_nvim_setup)
+  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
