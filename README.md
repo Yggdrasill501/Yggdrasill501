@@ -41,9 +41,9 @@ There is future in AI amd Ml I think nobody doubts that but the most interrsting
 #### Repositories
 - [Cimi a C/C++ mini backend frame-work](https://github.com/Yggdrasill501/cimi-web)
 
-- [yggdrasill501.net]()
+- [yggdrasill501.net](yggdrasill501.net)
 - [yggdrasill501 Backend Api](https://github.com/Yggdrasill501/yggdrasill501-api)
-- [yggdrasill501 Frontend]()
+- [yggdrasill501 Frontend](https://github.com/Yggdrasill501/yggdrasill501.net)
 
 - [janazitna.sk](https://github.com/jakubzitny/janazitna.sk)
 
