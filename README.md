@@ -31,14 +31,13 @@ My work is at [Digiteq Automotive](https://www.digiteqautomotive.com/cs) where I
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 ### Ai and Data analysis:
-There Is future in AI amd Ml I think nobody doubts that but the most interrsting field is scientific programing and for few people that have Phd in sciece and can also figure stuff around AI.
+There is future in AI amd Ml I think nobody doubts that but the most interrsting field is scientific programing and for more than few people that have Phd in sciece and can also figure stuff around AI.
 #### Repositories 
 - [Exoplanet search](https://github.com/Yggdrasill501/Exoplanet_Search)
 - [Economical analysis of Slovakia](https://github.com/Yggdrasill501/economical_analysis_of_slovakia)
 - [ML for exoplanet search](https://github.com/Yggdrasill501/ml_for_exoplanet_search)
 
 ### Web development
-When it comes to web I am interested in everything, I enjoy backend a bt more, but i think it is just because im writing it more.
 #### Repositories
 - [Cimi a C/C++ mini backend frame-work](https://github.com/Yggdrasill501/cimi-web)
 
@@ -49,8 +48,6 @@ When it comes to web I am interested in everything, I enjoy backend a bt more, b
 - [janazitna.sk](https://github.com/jakubzitny/janazitna.sk)
 
 - [Movies Backend Api](https://github.com/Yggdrasill501/Movies-backend)
-- [Movies Fronted]()
-
 
 ### Unix/Linux
 #### Repositories
