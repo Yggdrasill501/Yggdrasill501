@@ -30,6 +30,7 @@ My work is at [Digiteq Automotive](https://www.digiteqautomotive.com/cs) where I
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21.svg" alt="godot" width="40" height="40"/></a>
 ### Ai and Data analysis:
 There is future in AI amd Ml I think nobody doubts that but the most interrsting field is scientific programing and for more than few people that have Phd in sciece and can also figure stuff around AI.
 #### Repositories 
