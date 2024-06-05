@@ -1,11 +1,21 @@
+<!---
+<h1 align="center">
+<img src="https://github.com/yuk7/yuk7/assets/29954265/78c22385-798e-463a-bc9e-ccf24be150a0" alt="yuk7">
+</h1>
+--->
 # Hello there,
-I am Software Engineer and enthusiast interested in computer science and quantum computing.<p></p>
-I am currently studing on [Czech Technical University](https://www.cvut.cz/en), Application of Computer science in natural Sciences, where I am working on [research of exoplanets](https://github.com/Yggdrasill501/Exoplanet_Search) and automation of data science behind it.<p> </p>
-
-My work is at [Digiteq Automotive](https://www.digiteqautomotive.com/cs) where I work on AI model that represents behaviour of driver and his interaction with Infotainment, development of framework for Test Automation and CI/CD, Development of desktop apps and Android development.<p> </p>
-
 ### Programing languages, frameworks and tools:
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+- 🔭 I’m currently working in Cyber Security on data secure pipelines.
+- 🌱 I’m currently learning Rust, Zig, Quasm.
+- 💬 Ask me about anything!
+- 😄 Pronouns: he/him
+- 📫 How to reach me: [e-mail]() / [Keybase]() / [signal]()
+- ⚡ Fun fact: To explain Cats righting motion(Cats fall on all 4) you need Euler's Equation of Motion and differential model.
+  
+### Programing languages, frameworks and tools:
+<div align="center">
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -31,25 +41,17 @@ My work is at [Digiteq Automotive](https://www.digiteqautomotive.com/cs) where I
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21.svg" alt="godot" width="40" height="40"/></a>
-### Ai and Data analysis:
-There is future in AI amd Ml I think nobody doubts that but the most interrsting field is scientific programing and for more than few people that have Phd in sciece and can also figure stuff around AI.
-#### Repositories 
-- [Exoplanet search](https://github.com/Yggdrasill501/Exoplanet_Search)
-- [Economical analysis of Slovakia](https://github.com/Yggdrasill501/economical_analysis_of_slovakia)
-- [ML for exoplanet search](https://github.com/Yggdrasill501/ml_for_exoplanet_search)
-
-### Web development
-#### Repositories
-- [Cimi a C/C++ mini backend frame-work](https://github.com/Yggdrasill501/cimi-web)
-
-- [yggdrasill501 Backend Api](https://github.com/Yggdrasill501/yggdrasill501-api)
-- [yggdrasill501 Frontend](https://github.com/Yggdrasill501/yggdrasill501.net)
-
-- [janazitna.sk](https://github.com/jakubzitny/janazitna.sk)
-
-- [Movies Backend Api](https://github.com/Yggdrasill501/Movies-backend)
-
-### Unix/Linux
-#### Repositories
-- [Yggdrasil LGX](https://github.com/Yggdrasill501/Yggdrasil-LGX)
-- [Neovim Config](https://github.com/Yggdrasill501/yggdrasill501_nvim_setup)   
+</div>
+<!----
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuk7&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuk7&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuk7&theme=github" />
+  </a>
+</div>
+----> 
