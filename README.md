@@ -6,11 +6,11 @@
 # Hello there,
 ### Programing languages, frameworks and tools:
 
-- 🔭 I’m currently working in Cyber Security on data secure pipelines.
+- 🔭 I’m currently working in data science and cyber security.
 - 🌱 I’m currently learning Rust, Zig, Quasm.
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/him
-- 📫 How to reach me: [e-mail]() / [Keybase]() / [signal]()
+- 📫 How to reach me: [e-mail](filipzitny@proton.me)
 - ⚡ Fun fact: To explain Cats righting motion(Cats fall on all 4) you need Euler's Equation of Motion and differential model.
   
 ### Programing languages, frameworks and tools:
