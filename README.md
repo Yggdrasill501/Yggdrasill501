@@ -1,19 +1,12 @@
-<!---
-<h1 align="center">
-<img src="https://github.com/yuk7/yuk7/assets/29954265/78c22385-798e-463a-bc9e-ccf24be150a0" alt="yuk7">
-</h1>
---->
-# Hello there,
-### Programing languages, frameworks and tools:
-
-- 🔭 I’m currently working as a Data scientist at [Deepnote](https://deepnote.com/).
+# Hello there(only accepted reply is General Kenobi), I am Filip
+- 🔭 Data scientist at [Deepnote](https://deepnote.com/).
 - 🌱 I’m currently learning Rust, Zig, Quasm.
-- 💬 Ask me about anything!
+- ⚙️ Contributing to MOJO, Nvidia Jetson
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [e-mail](filipzitny@proton.me)
-- ⚡ Fun fact: To explain Cats righting motion(Cats fall on all 4) you need Euler's Equation of Motion and differential model.
+- ⚡ Fun fact: To explain righting motion(Cats fall on all 4) you need Euler's Equation of Motion and differential model.
   
-### Programing languages, frameworks and tools:
+### Programming languages, frameworks, and tools:
 <div align="center">
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
