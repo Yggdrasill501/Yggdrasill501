@@ -1,4 +1,6 @@
-# Hello there(only accepted reply is General Kenobi), I am Filip
+# Hello there, I am Filip
+(only accepted reply is General Kenobi)
+<p></p>
 - 🔭 Data scientist at [Deepnote](https://deepnote.com/).
 - 🌱 I’m currently learning Rust, Zig, Quasm.
 - ⚙️ Contributing to MOJO, Nvidia Jetson
