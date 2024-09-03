@@ -6,7 +6,7 @@
 # Hello there,
 ### Programing languages, frameworks and tools:
 
-- 🔭 I’m currently working in data science and cyber security.
+- 🔭 I’m currently working as a Data scientist at [Deepnote](deepnote.com).
 - 🌱 I’m currently learning Rust, Zig, Quasm.
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/him
