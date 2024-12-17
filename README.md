@@ -2,7 +2,7 @@
 <p>(only accepted reply is General Kenobi)</p>
 
 - 🔭 Data scientist at [Deepnote](https://deepnote.com/).
-- 🌱 I’m currently learning Zig, Quasm.
+- 🌱 I'm currently learning Zig, Quasm.
 - ⚡ Fun fact: To explain righting motion(Cats fall on all 4) you need Euler's Equation of Motion and differential model.
   
 <div align="center">
@@ -22,5 +22,8 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=Yggdrasill501&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Yggdrasill501's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yggdrasill501&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Yggdrasill501's GitHub Stats" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yggdrasill501&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Yggdrasill501's GitHub Stats" style="display: inline-block; margin-right: 10px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yggdrasill501&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Yggdrasill501's GitHub Stats" style="display: inline-block;"/>
+</div>
