@@ -2,10 +2,7 @@
 <p>(only accepted reply is General Kenobi)</p>
 
 - 🔭 Data scientist at [Deepnote](https://deepnote.com/).
-- 🌱 I’m currently learning Rust, Zig, Quasm.
-- ⚙️ Contributing to MOJO, Nvidia Jetson
-- 😄 Pronouns: he/him
-- 📫 How to reach me: [e-mail](filipzitny@proton.me)
+- 🌱 I’m currently learning Zig, Quasm.
 - ⚡ Fun fact: To explain righting motion(Cats fall on all 4) you need Euler's Equation of Motion and differential model.
   
 ### Programming languages, frameworks, and tools:
