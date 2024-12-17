@@ -24,4 +24,3 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=Yggdrasill501&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Yggdrasill501's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yggdrasill501&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Yggdrasill501's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yggdrasill501&theme=default&hide_border=true" alt="Yggdrasill501's GitHub Stats" />
